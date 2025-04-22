@@ -6,3 +6,5 @@ nota = 70
 
 if nota >= 40:
     print("Aprobaste la materia")
+else:
+    print("Desaprobaste la materia")
