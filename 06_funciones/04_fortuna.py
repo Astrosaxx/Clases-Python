@@ -1,6 +1,5 @@
 import random
 
-
 def fortuna():
     lista_fortuna = [
         'No persigas la felicidad, creala'
